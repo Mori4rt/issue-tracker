@@ -1,11 +1,26 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "projects": 
+        {
+            "id": 1,
+            "title": "Project 1",
+            "image": "https://github.com/project1image.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Project 2",
+            "image": "https://github.com/project2image.jpg"
+        }
+    ,
+    "posts": 
+        {
+            "id": 1,
+            "title": "Post 1",
+            "project_id": 1
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "project_id": 2
+        }
+    
 }
