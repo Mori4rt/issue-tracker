@@ -1,5 +1,5 @@
 {
-    "projects": 
+    "projects": [
         {
             "id": 1,
             "title": "Project 1",
@@ -10,8 +10,8 @@
             "title": "Project 2",
             "image": "https://github.com/project2image.jpg"
         }
-    ,
-    "posts": 
+    ],
+    "posts": [
         {
             "id": 1,
             "title": "Post 1",
@@ -22,5 +22,5 @@
             "title": "Post 2",
             "project_id": 2
         }
-    
+    ]
 }
