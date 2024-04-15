@@ -3,12 +3,14 @@
         {
             "id": 1,
             "title": "Project 1",
-            "image": "https://images.unsplash.com/photo-1492112007959-c35ae067c37b?q=80&w=1884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image": "https://images.unsplash.com/photo-1492112007959-c35ae067c37b?q=80&w=1884&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": Идея Милгрома (и авторов нового исследования) может оказаться необходимым следствием объединения теории относительности и квантовой механики в единую структуру. Как минимум эту идею следует рассмотреть всерьез и провести ряд научных экспериментов, проверяющих природу ньютоновской динамики.
         },
         {
             "id": 2,
             "title": "Project 2",
-            "image": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            "image": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": Мы показываем, что стохастическая природа пространства-времени порождает дополнительную гравитационную силу, удерживающую галактики вместе. Энтропия, управляемая стохастической космологической постоянной, может объяснить кривые вращения галактик, а значит привлекать темную материю не нужно
         }
     ],
     "posts": [
